@@ -19,3 +19,4 @@
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=bs10x&hide=javascript&layout=compact&langs_count=8&card_width=320" />
 </a>
 
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bs10x&theme=github)
