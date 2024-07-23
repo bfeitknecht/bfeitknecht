@@ -12,7 +12,7 @@
 </a>
 -->
 
-- 🔭 I’m currently studying at ETH Zurich
+- 🔭 I study computer science at ETH Zurich
 - 🌱 I’m currently learning how to learn
 - 💬 Ask me about anything shell related
 - ⚡ Fun fact: `rm -rf /` can help clear up useless bloat
