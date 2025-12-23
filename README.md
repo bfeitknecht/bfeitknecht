@@ -16,12 +16,11 @@
 - 🌱 I’m currently learning how to learn
 - 💬 Ask me about anything shell related
 - ⚡ Fun fact: `rm -rf /` can help clear up useless bloat
-- ❔ Did you know? The First Gigabyte Drive Cost $40,000
 
 
 
 ![](https://github-readme-stats.vercel.app/api?username=bfeitknecht&show_icons=true&show=prs_merged)
 
-![](https://github-readme-stats.vercel.app/api/top-langs?username=bfeitknecht&hide=javascript&layout=compact&langs_count=8)
+![](https://github-readme-stats.vercel.app/api/top-langs?username=bfeitknecht&exclude_repo=ES-mini-project,blog&layout=compact&langs_count=8)
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfeitknecht&theme=github)
