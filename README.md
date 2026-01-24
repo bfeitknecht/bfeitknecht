@@ -1,6 +1,6 @@
 ![](https://img.shields.io/badge/Degree-BSc_CS_@_ETH_Zürich-blue?logo=ethz) ![Profile Views](https://komarev.com/ghpvc/?username=bfeitknecht)
 
-<p align="center">
+<p align="left">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bfeitknecht&theme=github" height="165" />
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=bfeitknecht&theme=github&utcOffset=1" height="165" />
 </p>
