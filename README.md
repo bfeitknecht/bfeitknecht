@@ -35,7 +35,7 @@ If you'd like to get in touch don't hesitate to contact me! I'm always happy to 
 
 Because who doesn't love some nice graphs and numbers? That's what it's all about in the end!
 
-<p align="center">
+<p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=bfeitknecht&show_icons=true&count_private=true&show=prs_merged" height="165" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bfeitknecht&exclude_repo=ES-mini-project&layout=compact" height="165" />
 </p>
