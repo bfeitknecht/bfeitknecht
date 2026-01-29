@@ -7,7 +7,7 @@
 
 # Grüezi!
 
-I'm Basil and this is my GitHub profile. You can find some of my projects here, see the pinned repositories below for my favorites.
+I'm Basil and this is my GitHub profile. You can find some of my projects here, see the pinned repositories for my favorites.
 
 ## About
 
